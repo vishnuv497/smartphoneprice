@@ -4,4 +4,4 @@ cd smartphoneprice
 
 pip install streamlit pandas numpy scikit-learn
 
-streamlit run smartphone.py
+streamlit run phonesales.py
