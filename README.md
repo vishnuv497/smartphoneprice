@@ -1,4 +1,4 @@
-git hub https://github.com/vishnuv497/smartphoneprice.git
+git clone https://github.com/vishnuv497/smartphoneprice.git
 
 cd smartphoneprice
 
